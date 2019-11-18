@@ -1,0 +1,15 @@
+fd 60
+pu bk 0 lt 90 pd
+lt 45
+repeat 4 [
+repeat 180 [ fd 1 rt 1 ]
+lt 90
+]
+rt 135 pu fd 50 pd lt 90
+repeat 360 [ fd 0.5 rt 1 ]
+lt 90 fd 125 rt 180
+rt 90 fd 50
+rt 90 fd 100 
+rt 90 fd 100
+rt 90fd 100
+rt 90fd 50
